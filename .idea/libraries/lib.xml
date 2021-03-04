@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Temp/Hibernate/hibernate-release-5.4.29.Final/hibernate-release-5.4.29.Final/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Temp/Hibernate/hibernate-release-5.4.29.Final/hibernate-release-5.4.29.Final/lib/required" />
+      <root url="file://$PROJECT_DIR$/../../../../Temp/Hibernate/hibernate-release-5.4.29.Final/hibernate-release-5.4.29.Final/lib/required" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Temp/Hibernate/hibernate-release-5.4.29.Final/hibernate-release-5.4.29.Final/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Temp/Hibernate/hibernate-release-5.4.29.Final/hibernate-release-5.4.29.Final/lib/required" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Temp/Hibernate/hibernate-release-5.4.29.Final/hibernate-release-5.4.29.Final/lib/required" recursive="false" />
+  </library>
+</component>
